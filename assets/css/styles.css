@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  font-size: 35px;
+  background-color: black;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+nav h1 {
+  margin: 0px;
+  font-weight: 400;
+  text-align: center;
+  color:white;
+}
+
+.descripcion {
+  background-color: black;
+  font-size: 25px;
+  display: flow-root;
+}
+
+.descripcion img {
+  float: right;
+  width: 300px;
+  height: 200px;
+  padding-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  }
+
+.card{
+    width: 40%;
+    display: inline-block;
+    text-align: justify;
+    vertical-align: middle;
+    color: white;
+    padding-left: 20%;
+    font-size: medium;
+    padding-top: 5%;
+
+
+  }
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", "Geneva", "verdana", sans-serif;
+    background-color: black;
+}
+
+#segunda_parte {
+  background-color: #1E1A13;
+  text-align: center;
+  color: white;
+  height: 100px;
+  padding: 5%;
+}
+
+.caracteristicas {
+display: inline-block;
+margin: 30px;
+  
+}
+
+.caracteristicas h2 {
+  font-weight: 300;
+  text-align: center;
+}
+
+.caracteristicas img {
+  float: left;
+  vertical-align: middle;
+  width: 20%;
+  padding: 10px;
+  display: inline-block;
+}
+
+#tercera_parte {
+  margin-left: 10%;
+}
+
+.fotos {
+  float:center;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  padding: 5%;
+
+}
+
+footer {
+  background-color: #1E1A13;
+  color: white;
+  text-align: center;
+  width: 100%;
+  height: 50px;
+  padding-top: 2%;
+  text-decoration: none;
+
+}
